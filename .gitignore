@@ -1,0 +1,4 @@
+output
+windows.syso
+bind_windows_amd64.go
+vendor_astilectron_bundler
